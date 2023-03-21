@@ -1,11 +1,11 @@
 import React from "react";
-import Landing from './components/Landing';
+import Landings from './components/Landings';
 
 
 function App(){
     return (
         <div>
-            <Landing />
+            <Landings />
         </div>
     );
 }
